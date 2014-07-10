@@ -1,0 +1,6 @@
+---- SyncTime Matches (5 in 3 files) ----
+Setting.c (application):#include "SyncTime.h"
+Setting.c (application):		{"3.同步网络时间","3.Sync Internet Time",SyncTime},
+SyncTime.c (application):#include "SyncTime.h"
+SyncTime.c (application):char SyncTime(char *msg)
+SyncTime.h (application):char SyncTime(char *msg);

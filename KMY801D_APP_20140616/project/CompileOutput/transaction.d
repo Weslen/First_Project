@@ -1,0 +1,11 @@
+.\CompileOutput\transaction.o: ..\Application\Transaction.c
+.\CompileOutput\transaction.o: ..\Application\Transaction.h
+.\CompileOutput\transaction.o: ..\Application\lcd.h
+.\CompileOutput\transaction.o: ..\kmy_platform\kmy_LCDDrv.h
+.\CompileOutput\transaction.o: ..\Application\gprs.h
+.\CompileOutput\transaction.o: C:\Keil\ARM\RV31\INC\string.h
+.\CompileOutput\transaction.o: ..\Application\setting.h
+.\CompileOutput\transaction.o: ..\Application\my_stdint.h
+.\CompileOutput\transaction.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\CompileOutput\transaction.o: ..\Application\key.h
+.\CompileOutput\transaction.o: ..\kmy_platform\kmy_KeyDrv.h

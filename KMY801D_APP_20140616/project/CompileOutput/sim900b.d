@@ -1,0 +1,9 @@
+.\CompileOutput\sim900b.o: ..\Application\sim900B.c
+.\CompileOutput\sim900b.o: ..\Application\sim900B.h
+.\CompileOutput\sim900b.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\CompileOutput\sim900b.o: C:\Keil\ARM\RV31\INC\string.h
+.\CompileOutput\sim900b.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\CompileOutput\sim900b.o: ..\Application\mypure_library.h
+.\CompileOutput\sim900b.o: ..\Application\gprs.h
+.\CompileOutput\sim900b.o: ..\Application\global_extern_variable.h
+.\CompileOutput\sim900b.o: ..\Application\main.h

@@ -1,0 +1,13 @@
+.\CompileOutput\shurufa.o: ..\Application\ShuRuFa.c
+.\CompileOutput\shurufa.o: ..\Application\ShuRuFa.h
+.\CompileOutput\shurufa.o: ..\Application\my_stdint.h
+.\CompileOutput\shurufa.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\CompileOutput\shurufa.o: C:\Keil\ARM\RV31\INC\string.h
+.\CompileOutput\shurufa.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\CompileOutput\shurufa.o: ..\Application\key.h
+.\CompileOutput\shurufa.o: ..\kmy_platform\kmy_KeyDrv.h
+.\CompileOutput\shurufa.o: ..\Application\lcd.h
+.\CompileOutput\shurufa.o: ..\kmy_platform\kmy_LCDDrv.h
+.\CompileOutput\shurufa.o: ..\Application\mypure_library.h
+.\CompileOutput\shurufa.o: ..\Application\my_library.h
+.\CompileOutput\shurufa.o: ..\Application\setting.h

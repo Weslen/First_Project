@@ -1,0 +1,72 @@
+*** Creating Trace Output File '.\CompileOutput\main.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\compileoutput\base64.o"'
+### List of Objects: adding '".\compileoutput\callrecord.o"'
+### List of Objects: adding '".\compileoutput\cursor.o"'
+### List of Objects: adding '".\compileoutput\des.o"'
+### List of Objects: adding '".\compileoutput\eepromfilesystem.o"'
+### List of Objects: adding '".\compileoutput\fileoperate.o"'
+### List of Objects: adding '".\compileoutput\forminput.o"'
+### List of Objects: adding '".\compileoutput\gprs.o"'
+### List of Objects: adding '".\compileoutput\key.o"'
+### List of Objects: adding '".\compileoutput\lcd.o"'
+### List of Objects: adding '".\compileoutput\main.o"'
+### List of Objects: adding '".\compileoutput\menuoperate.o"'
+### List of Objects: adding '".\compileoutput\message.o"'
+### List of Objects: adding '".\compileoutput\my_library.o"'
+### List of Objects: adding '".\compileoutput\my_menuop.o"'
+### List of Objects: adding '".\compileoutput\mypure_library.o"'
+### List of Objects: adding '".\compileoutput\phonebook.o"'
+### List of Objects: adding '".\compileoutput\selftest.o"'
+### List of Objects: adding '".\compileoutput\setting.o"'
+### List of Objects: adding '".\compileoutput\shurufa.o"'
+### List of Objects: adding '".\compileoutput\sim900b.o"'
+### List of Objects: adding '".\compileoutput\spiflashfilesystem.o"'
+### List of Objects: adding '".\compileoutput\tool.o"'
+### List of Objects: adding '".\compileoutput\transaction.o"'
+### List of Objects: adding '".\compileoutput\ucs2_to_gb2312.o"'
+### List of Objects: adding '".\compileoutput\barcode.o"'
+### List of Objects: adding '".\compileoutput\factorytest.o"'
+### List of Objects: adding '".\compileoutput\synctime.o"'
+### List of Objects: adding '"..\kmy_platform\kmy_drv.lib"'
+### List of Objects: adding '".\compileoutput\core_cm3.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_it.o"'
+### List of Objects: adding '".\compileoutput\system_stm32f10x.o"'
+### List of Objects: adding '".\compileoutput\startup_stm32f10x_md_vl.o"'
+### List of Objects: adding '".\compileoutput\misc.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_adc.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_bkp.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_can.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_cec.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_crc.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_dac.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_dma.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_exti.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_flash.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_gpio.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_i2c.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_pwr.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_rcc.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_rtc.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_sdio.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_spi.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_tim.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_usart.o"'
+### List of Objects: adding '".\compileoutput\stm32f10x_wwdg.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\compileoutput\base64.o" ".\compileoutput\callrecord.o" ".\compileoutput\cursor.o" ".\compileoutput\des.o" ".\compileoutput\eepromfilesystem.o" ".\compileoutput\fileoperate.o" ".\compileoutput\forminput.o" ".\compileoutput\gprs.o" ".\compileoutput\key.o" ".\compileoutput\lcd.o" ".\compileoutput\main.o" ".\compileoutput\menuoperate.o" ".\compileoutput\message.o" ".\compileoutput\my_library.o" ".\compileoutput\my_menuop.o" ".\compileoutput\mypure_library.o" ".\compileoutput\phonebook.o" ".\compileoutput\selftest.o" ".\compileoutput\setting.o" ".\compileoutput\shurufa.o" ".\compileoutput\sim900b.o" ".\compileoutput\spiflashfilesystem.o" ".\compileoutput\tool.o" ".\compileoutput\transaction.o" ".\compileoutput\ucs2_to_gb2312.o" ".\compileoutput\barcode.o" ".\compileoutput\factorytest.o" ".\compileoutput\synctime.o" "..\kmy_platform\kmy_drv.lib" ".\compileoutput\core_cm3.o" ".\compileoutput\stm32f10x_it.o" ".\compileoutput\system_stm32f10x.o" ".\compileoutput\startup_stm32f10x_md_vl.o" ".\compileoutput\misc.o" ".\compileoutput\stm32f10x_adc.o" ".\compileoutput\stm32f10x_bkp.o" ".\compileoutput\stm32f10x_can.o" ".\compileoutput\stm32f10x_cec.o" ".\compileoutput\stm32f10x_crc.o" ".\compileoutput\stm32f10x_dac.o" ".\compileoutput\stm32f10x_dbgmcu.o" ".\compileoutput\stm32f10x_dma.o" ".\compileoutput\stm32f10x_exti.o" ".\compileoutput\stm32f10x_flash.o" ".\compileoutput\stm32f10x_fsmc.o" ".\compileoutput\stm32f10x_gpio.o" ".\compileoutput\stm32f10x_i2c.o" ".\compileoutput\stm32f10x_iwdg.o" ".\compileoutput\stm32f10x_pwr.o" ".\compileoutput\stm32f10x_rcc.o" ".\compileoutput\stm32f10x_rtc.o" ".\compileoutput\stm32f10x_sdio.o" ".\compileoutput\stm32f10x_spi.o" ".\compileoutput\stm32f10x_tim.o" ".\compileoutput\stm32f10x_usart.o" ".\compileoutput\stm32f10x_wwdg.o" --library_type=microlib --strict --scatter ".\CompileOutput\main.sct" 
+--autoat --summary_stderr --info summarysizes -o ".\CompileOutput\main.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\CompileOutput\main.axf'
+### ADS-LD Command File: '.\CompileOutput\main.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\CompileOutput\main.lnp', Handle=0x000004DC
+### Writing '.lnp' file
+### ADS-LD Command file '.\CompileOutput\main.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

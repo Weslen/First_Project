@@ -1,0 +1,1 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" -o ".\CompileOutput\startup_stm32f10x_md_vl.o" "..\CMSIS\MDK_startup\startup_stm32f10x_md_vl.s"

@@ -1,0 +1,16 @@
+.\CompileOutput\tool.o: ..\Application\Tool.c
+.\CompileOutput\tool.o: ..\Application\Tool.h
+.\CompileOutput\tool.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\CompileOutput\tool.o: C:\Keil\ARM\RV31\INC\string.h
+.\CompileOutput\tool.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\CompileOutput\tool.o: ..\kmy_platform\kmy_Time.h
+.\CompileOutput\tool.o: ..\Application\key.h
+.\CompileOutput\tool.o: ..\kmy_platform\kmy_KeyDrv.h
+.\CompileOutput\tool.o: ..\Application\lcd.h
+.\CompileOutput\tool.o: ..\kmy_platform\kmy_LCDDrv.h
+.\CompileOutput\tool.o: ..\Application\main.h
+.\CompileOutput\tool.o: ..\Application\my_library.h
+.\CompileOutput\tool.o: ..\Application\gprs.h
+.\CompileOutput\tool.o: ..\Application\MenuOperate.h
+.\CompileOutput\tool.o: ..\Application\PhoneBook.h
+.\CompileOutput\tool.o: ..\Application\global_extern_variable.h
