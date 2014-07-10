@@ -1078,6 +1078,8 @@ int main(void)
 	CurProc=ProcStandbyKey;
 	check_rtc();
 
+
+
 	while(1)
 	{
 		CurProc(NULL);
